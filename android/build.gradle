@@ -28,6 +28,7 @@ android {
         versionCode 1
         versionName "1.0"
     }
+    namespace 'com.dylanvann.fastimage'
     sourceSets {
         main {
             java {
